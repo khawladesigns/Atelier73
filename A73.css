@@ -1,0 +1,149 @@
+.landing-page-4-child {
+  	position: absolute;
+  	top: -414px;
+  	left: 1071px;
+  	filter: blur(600px);
+  	border-radius: 50%;
+  	background: linear-gradient(131.07deg, #7700d8, #e45000);
+  	width: 674px;
+  	height: 674px;
+}
+.landing-page-4-item {
+  	position: absolute;
+  	top: 153px;
+  	left: 25px;
+  	width: 1199.9px;
+  	height: 671px;
+  	object-fit: contain;
+}
+.to-help-you {
+  	position: absolute;
+  	top: calc(50% - 194px);
+  	left: calc(50% - 640px);
+  	font-size: 68px;
+  	letter-spacing: -0.02em;
+  	font-weight: 600;
+  	font-family: 'Inter Display';
+  	color: #270048;
+  	text-align: center;
+}
+.we-specialize-in {
+  	position: absolute;
+  	top: calc(50% + 118px);
+  	left: calc(50% - 640px);
+  	font-size: 40px;
+  	letter-spacing: -0.02em;
+  	font-weight: 600;
+  	font-family: 'Inter Display';
+  	color: #270048;
+  	text-align: center;
+}
+.a-creative-group {
+  	position: absolute;
+  	top: calc(50% - 294px);
+  	left: calc(50% - 640px);
+  	font-size: 72px;
+  	letter-spacing: 0.03em;
+  	display: inline-block;
+  	background: linear-gradient(90deg, #7700d8, #e45000);
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+  	width: 550px;
+}
+.uxui-design {
+  	align-self: stretch;
+  	position: relative;
+  	letter-spacing: 0.03em;
+}
+.uxui-design-parent {
+  	position: absolute;
+  	top: 733px;
+  	left: 80px;
+  	width: 222px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 12px;
+}
+.product-design-parent {
+  	position: absolute;
+  	top: 733px;
+  	left: 302px;
+  	width: 270px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 12px;
+}
+.art-direction-parent {
+  	position: absolute;
+  	top: 733px;
+  	left: 572px;
+  	width: 270px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 12px;
+}
+.atelier-73 {
+  	position: relative;
+  	letter-spacing: 0.03em;
+}
+.about-us {
+  	position: relative;
+  	font-weight: 500;
+}
+.about-us-parent {
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 19px;
+  	font-size: 18px;
+  	font-family: 'Work Sans';
+}
+.atelier-73-parent {
+  	position: absolute;
+  	top: 22px;
+  	left: 80px;
+  	width: 854px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: space-between;
+  	gap: 0px;
+  	text-align: center;
+  	font-size: 64px;
+}
+.component-1 {
+  	position: absolute;
+  	top: 455px;
+  	left: 80px;
+  	background-color: #7700d8;
+  	width: 222px;
+  	height: 57px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 24px 57px;
+  	box-sizing: border-box;
+  	font-size: 30px;
+  	color: #fff;
+  	font-family: Inter;
+}
+.landing-page-4 {
+  	width: 100%;
+  	position: relative;
+  	background-color: #fff;
+  	height: 1024px;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 22px;
+  	color: #000;
+  	font-family: 'Test Martina Plantijn';
+}
+
